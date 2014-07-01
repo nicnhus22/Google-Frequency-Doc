@@ -15,6 +15,6 @@ d1;...;dM, each with a length N, where N is the total number of different words 
 
 To get the final purcentage, I used this formula that computes angles between vector to know which one is the closest to the query (the closer is the difference between the query vector and the document vector, the better is the match):
 
-![alt tag](https://raw.githubusercontent.com/nicnhus22/Cpp-GoogleFrequencyDoc/master/screenshot/formula.png)
+![alt tag](https://raw.githubusercontent.com/nicnhus22/Cpp-GoogleFrequencyDoc/master/screenshot/Formula.png)
 
 ![alt tag](https://raw.githubusercontent.com/nicnhus22/Cpp-GoogleFrequencyDoc/master/screenshot/Output.png)
