@@ -17,4 +17,8 @@ To get the final purcentage, I used this formula that computes angles between ve
 
 ![alt tag](https://raw.githubusercontent.com/nicnhus22/Cpp-GoogleFrequencyDoc/master/screenshot/Forumla.png)
 
+<h3>Output</h3>
+======
+Note: If a the number of documents entered by the user is less or more than the original number of documents it will display them all.
+
 ![alt tag](https://raw.githubusercontent.com/nicnhus22/Cpp-GoogleFrequencyDoc/master/screenshot/Output.png)
